@@ -37,13 +37,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
-# 🎮 RPG 网站项目
+# RPG 网站项目
 
 本项目基于 Next.js App Router + Supabase + Vercel + GitHub 构建的全栈 RPG 社区网站。
 
-## 📂 项目结构树
-
-```text
+## 项目文件
+'''text
 my-rpg-project/
 ├── public/                 # 静态资源目录
 │   ├── fonts/              # 自定义字体文件
@@ -120,7 +119,8 @@ my-rpg-project/
 ├── tsconfig.json           # TypeScript 配置
 └── README.md               # 项目说明文档
 
-#RPG网站开发计划
+### 开发计划
+
 |——Phase 1: 基础设施与公开访问
 |    |——基础环境搭建
 111|    |    |——Next.js + Supabase + Tailwind 初始化
